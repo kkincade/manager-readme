@@ -64,7 +64,11 @@ On a related note, I believe in people over process. We should adapt our process
 
 #### THE FOCUS IS ON QUALITY
 
-Our team will have a bigger impact by doing less, and doing it better. We want to develop a reputation of excellence. Everything we release should have our stamp of approval. Since we have limited time, we should ensure we are working on projects that are important. 
+Our team will have a bigger impact by doing less, and doing it better. We want to develop a reputation of excellence. Everything we release should have our stamp of approval. Since we have limited time, we should ensure we are working on projects that are important.
+
+#### START WITH "WHY?"
+
+Following Simon Sinek's advice in [Start With Why?](https://www.amazon.com/Start-Why-Leaders-Inspire-Everyone/dp/1591846447), understanding the purpose (or WHY) behind your work is of the utmost importance. We should always put the purpose of what we are doing before the process (HOW we are building it) and the product (WHAT we are building). Clearly understanding our purpose and being able to articulate it to others will help you make better, more informed decisions while inspiring those around you. If at any time, your WHY is unclear, ask! If no one has an answer, maybe we should be working on something else instead.
 
 ## Meetings
 
