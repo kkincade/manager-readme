@@ -1,6 +1,6 @@
 # Manager README
 
-Inspired by [this article](https://hackernoon.com/12-manager-readmes-from-silicon-valleys-top-tech-companies-26588a660afe), this guide is intended to set expectations for our working relationship. It aims to do two very specific things:
+I'm excited to get to know you organically through frequent conversations, but here are a few up-front details about my philosophies that should be helpful in the meantime. Inspired by [this article](https://hackernoon.com/12-manager-readmes-from-silicon-valleys-top-tech-companies-26588a660afe), this guide is intended to set expectations for our working relationship. It aims to do two very specific things:
 
 1. Reduce any anxiety or uncertainty with your new role.
 1. Provide insight into my role and how I operate, in order to help us foster a meaningful relationship - one of trust and honesty.
@@ -12,8 +12,6 @@ My role as a Software Team Lead includes the following:
 * Cultivate an environment of passion and innovation to help team members thrive
 * Collect and distribute useful information
 * Develop fun, useful products
-
-___
 
 ## Communication
 
@@ -56,8 +54,6 @@ I am a firm believer that positive feedback is more powerful than negative feedb
 
 I hope to develop a great working relationship with you, and I encourage you to have great working relationships with your co-workers. Get to know those outside of our team to get a sense of how things work outside of our team. I’m more than happy to make introductions or help facilitate conversations with others in the company. 
 
-____
-
 ## Guiding Principles
 
 #### PEOPLE ARE MOST IMPORTANT
@@ -69,8 +65,6 @@ On a related note, I believe in people over process. We should adapt our process
 #### THE FOCUS IS ON QUALITY
 
 Our team will have a bigger impact by doing less, and doing it better. We want to develop a reputation of excellence. Everything we release should have our stamp of approval. Since we have limited time, we should ensure we are working on projects that are important. 
-
-___
 
 ## Meetings
 
