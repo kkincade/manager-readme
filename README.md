@@ -15,7 +15,7 @@ My role as a Software Team Lead includes the following:
 
 ## Communication
 
-My job is to serve you, not the other way around. Very few things are more important than talking with you. My calendar is full of meetings, and it may be intimidating to schedule something with me, but **if you want to talk with me, let’s talk**. If you see an opening on my calendar, please schedule something (no need to ask first). If there is an urgent need, send me a message or knock on my door, and I will make time.
+My job is to serve you, not the other way around. Very few things are more important than talking with you. My calendar might be full of meetings and it may be intimidating to schedule time with me, but **if you want to talk with me, let’s talk**. If you see an opening on my calendar, please schedule something (no need to ask first). If there is an urgent need, send me a message or knock on my door, and I will make time.
 
 My hierarchy of communication preferences is as follows:
 1. In-the-flesh conversations
