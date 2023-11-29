@@ -3,15 +3,18 @@
 I'm excited to get to know you organically through frequent conversations, but here are a few up-front details about my philosophies that should be helpful in the meantime. Inspired by [this article](https://hackernoon.com/12-manager-readmes-from-silicon-valleys-top-tech-companies-26588a660afe), this guide is intended to set expectations for our working relationship. It aims to do two very specific things:
 
 1. Reduce any anxiety or uncertainty with your new role.
-1. Provide insight into my role and how I operate, in order to help us foster a meaningful relationship - one of trust and honesty.
+1. Provide insight into my position and how I operate, in order to help us foster a meaningful relationship - one of trust and honesty.
 
 ## My Role
 
-My role as a Software Team Lead includes the following:
-* Attract, retain, and develop passionate engineers
-* Cultivate an environment of passion and innovation to help team members thrive
-* Collect and distribute useful information
-* Develop fun, useful products
+I really resonate with this quote from Will Larson's _An Elegant Puzzle_:
+
+> I believe that management, at its core, is an ethical profession. To see ourselves, we don’t look at the mirror, but rather at how we treat a member of the team who is not succeeding. Not at the mirror, but at our compensation philosophy. Not at the mirror, but at how we pitch the roles to candidates. Whom we promote. How we assign raises. Provide growth opportunities. PTO requests. Working hours. We have such a huge impact on the people we work with — and especially on the people who work “for” us — and taking responsibility for that impact is fundamental to good management. This doesn’t always mean being your team’s best friend. Sometimes it means asking them to make personal sacrifices, letting go of a popular member of the team, or canceling a project the team is excited about. It’s remembering that you leave a broad wake, and that your actions have a profound impact on those around you.
+
+I view my responsibility as an Engineering Manager to make those ethical, unbiased decisions to help us...
+* Develop meaningful products that impact the world in a positive way
+* Attract, retain, and develop respected, passionate engineers
+* Cultivate an environment of trust and transparency to help team members thrive
 
 ## Communication
 
@@ -30,9 +33,9 @@ My hierarchy of communication preferences is as follows:
 
 #### AVAILABILITY
 
-A healthy work/life balance is very important to me. I typically work weekdays from 7:30am to 5pm and avoid working on weekends. I might occasionally work outside of these hours but only if the situation requires it. I don’t expect you to work any unusual hours either. You should never feel pressured to work more than a standard 40hr work week.
+A healthy work/life balance is very important to me. I typically work weekdays from 7:00 AM to 4:00 PM and avoid working on weekends. I might occasionally work outside of these hours but only if the situation requires it. I don’t expect you to work any unusual hours either. You should never feel pressured to work more than a standard 40hr work week.
 
-I try my best to leave work at work, and I would advise you do the same. I don’t expect to communicate with you outside of normal office hours, however, you can always message me 24/7. I have *Do Not Disturb* mode enabled when needed, so don’t feel like you are bothering me. I will respond only when it is convenient. The reverse applies as well. I might message you outside of typical office hours, but I don’t expect a response until it is convenient for you. 
+I try my best to leave work at work, and I advise you do the same. I don’t expect to communicate with you outside of normal office hours; however, you can always message me 24/7. I take the initiative to use *Do Not Disturb* mode when needed, so you will not be bothering me. I will respond only when it is convenient. The reverse applies as well. I might message you outside of typical office hours, but I don’t expect a response until it is convenient for you. 
 
 I will always give notice prior to any irregular office outages (e.g. working from home, leaving early). I expect you to do the same. A flexible work schedule is important to me, but it’s also important not to abuse it. There is value in an office environment and working face-to-face with teammates.
 
@@ -60,7 +63,7 @@ I hope to develop a great working relationship with you, and I encourage you to 
 
 I care about the company because it affects the livelihood of its customers and employees. Our job is **not** to create a product. Our job is to impact people in the most beneficial way possible. This starts with customers and extends to your fellow employees. Treat people with respect and make decisions that provide the greatest impact.
 
-On a related note, I believe in people over process. We should adapt our processes to work for our team members, not the other way around. At the end of the day, I value transparency and honest evaluation of what works and what doesn’t
+On a related note, I believe in people over process. We should adapt our processes to work for our team members, not the other way around. At the end of the day, I value transparency and honest evaluation of what works and what doesn’t.
 
 #### THE FOCUS IS ON QUALITY
 
@@ -68,7 +71,7 @@ Our team will have a bigger impact by doing less, and doing it better. We want t
 
 #### START WITH "WHY?"
 
-Following Simon Sinek's advice in [Start With Why?](https://www.amazon.com/Start-Why-Leaders-Inspire-Everyone/dp/1591846447), understanding the purpose (or WHY) behind your work is of the utmost importance. We should always put the purpose of what we are doing before the process (HOW we are building it) and the product (WHAT we are building). Clearly understanding our purpose and being able to articulate it to others will help you make better, more informed decisions while inspiring those around you. If at any time, your WHY is unclear, ask! If no one has an answer, maybe we should be working on something else instead.
+Following Simon Sinek's advice in [Start With Why?](https://www.amazon.com/Start-Why-Leaders-Inspire-Everyone/dp/1591846447), understanding the purpose (or WHY) behind your work is of the utmost importance. We should always put the purpose of what we are doing before the process (HOW we are building it) and the product (WHAT we are building). Clearly understanding our purpose and being able to articulate it to others will help you make better, more informed decisions while inspiring those around you. If at any time, your WHY is unclear, ask! If no one has an answer, maybe we should be working on something else instead?
 
 ## Meetings
 
@@ -78,15 +81,17 @@ I believe developers are most effective when given long periods of uninterrupted
 
 This is a regularly scheduled meeting to ask for feedback, bring up issues, or suggest improvements. These meetings are 100% for you. I will ask that you come prepared with agenda items that *you* want to talk about. I typically prepare topics and feedback of my own to help drive conversations. My main objective is for us to establish a relationship of trust so we can confidently have occasional, difficult conversations with one another.
 
+1:1 meetings should regularly be a bit awkward and uncomfortable. If they aren't, we likely aren't discussing issues that matter most to you. Let's get uncomfortable and talk about what is most important.
+
 If I cannot make our regularly scheduled meeting, I will always try to reschedule instead of cancel. I expect the same in return.
 
 ### GROUP MEETINGS
 
-Steve Job compares employee interactions to that of a rock polisher. All of our day-to-day interactions help each other become better, more polished versions of ourselves. For that reason, I do find value in occasional group meetings. However, a successful meeting is one that:
+Steve Job compares employee interactions to that of a rock polisher. All of our day-to-day interactions are like the rocks tumbling into one another, helping each other become better, more polished versions of ourselves. For that reason, I do find value in group meetings. However, a successful meeting is one that:
 
 1. Has a clear agenda and purpose, which is communicated ahead of time.
 1. Has a leader who will stick to said agenda.
 1. Ends with an accomplished goal, or is rescheduled if the goal was not met in the time allocated.
 1. Action items are recorded.
 
-
+Remember that a meeting begins the moment you send/receive an invite. Pay attention to the details in how you organize meetings with other people.
